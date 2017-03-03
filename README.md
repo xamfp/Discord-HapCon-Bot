@@ -30,7 +30,8 @@ Commands:
 !HAPCON -> Posts a recent happening
 !HAPPENING <URL> -> Adds a happening to a list
 
-# IMPORTANT: When using the clear command be sure to either private message this command to the 
-# bot or send it in a private channel otherwise people in the discord server will be able to see the password.
+# IMPORTANT: When using the clear command be sure to either private message 
+# this command to the bot or send it in a private channel otherwise people in 
+# the discord server will be able to see the password.
 !clear <password>     
 ```
