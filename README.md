@@ -4,7 +4,7 @@ Discord bot used to keep track of current news stories / other related happening
 ### Installation
 Login to http://discordapp.com and go to https://discordapp.com/developers/applications/me and create an application and add it as a bot user.
 
-Go to to https://discordapp.com/oauth2/authorize?client_id=`YOUR BOTS CLIENT ID GOES HERE`&scope=bot&permissions=0 and add your bot to your server.
+Go to to https://discordapp.com/oauth2/authorize?client_id=YOUR BOTS CLIENT ID GOES HERE&scope=bot&permissions=0 and add your bot to your server.
 
 To install the discord api for python3 run the following command:
 ```
