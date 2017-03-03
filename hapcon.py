@@ -1,8 +1,5 @@
 import discord
 import asyncio
-import time
-import uuid
-import threading
 import random
 
 #### CONFIG ####
