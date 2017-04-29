@@ -34,4 +34,3 @@ Commands:
 # this command to the bot or send it in a private channel otherwise people in 
 # the discord server will be able to see the password.
 !clear <password>     
-```
